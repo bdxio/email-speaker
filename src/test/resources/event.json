@@ -1,0 +1,68 @@
+{
+    "name": "BDX I/O",
+    "categories": [],
+    "formats": [],
+    "address": {
+        "locality": {
+            "short_name": "Bordeaux",
+            "long_name": "Bordeaux"
+        },
+        "country": {
+            "short_name": "FR",
+            "long_name": "France"
+        },
+        "latLng": {
+            "lat": 44.88922789999999,
+            "lng": -0.5670891
+        },
+        "formattedAddress": "Avenue Jean Gabriel Domergue, 33300 Bordeaux"
+    },
+    "conferenceDates": {
+        "start": "2019-11-14T23:00:00.000Z",
+        "end": "2019-11-14T23:00:00.000Z"
+    },
+    "talks": [
+        {
+            "title": "Une super présentation",
+            "state": "confirmed",
+            "speakers": [
+                "86e3039247c942079f2a2833eb79"
+            ]
+        },
+        {
+            "title": "Une autre super présentation",
+            "state": "confirmed",
+            "speakers": [
+                "86e3039247c942079f2a2833eb79"
+            ]
+        },
+        {
+            "title": "Une pas si super présentation",
+            "state": "rejected",
+            "speakers": [
+                "86e3039247c942079f2a2833eb79"
+            ]
+        },
+        {
+            "title": "Je n'ai pas temps pour cette présentation",
+            "state": "declined",
+            "speakers": [
+                "86e3039247c942079f2a2833eb79"
+            ]
+        },
+        {
+            "title": "La présentation Schrödinger",
+            "state": "submitted",
+            "speakers": [
+                "86e3039247c942079f2a2833eb79"
+            ]
+        }
+    ],
+    "speakers": [
+        {
+            "uid": "86e3039247c942079f2a2833eb79",
+            "displayName": "John Doe",
+            "email": "benoit@bdx.io"
+        }
+    ]
+}

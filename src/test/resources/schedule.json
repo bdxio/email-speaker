@@ -1,0 +1,18 @@
+{
+  "sessions": {
+    "0": {
+      "id": 0,
+      "title": "Une super présentation",
+      "startTime": "2019-11-15T12:45:00.000Z",
+      "endTime": "2019-11-15T13:00:00.000Z",
+      "trackTitle": "Amphi B"
+    },
+    "1": {
+      "id": 1,
+      "title": "Une autre super présentation",
+      "startTime": "2019-11-15T11:15:00.000Z",
+      "endTime": "2019-11-15T11:30:00.000Z",
+      "trackTitle": "Salle de commission"
+    }
+  }
+}
